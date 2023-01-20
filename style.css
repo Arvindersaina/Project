@@ -1,0 +1,71 @@
+body {
+    background:grey;
+}
+
+.tab-content td, th {
+    background-color: yellow;
+}
+.tab-content td, h2, th{
+   
+    background-color: gold	;
+    border: 2px solid firebrick;
+    border-radius: 10px;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+	
+}
+
+.tab-content:hover td {
+    background-color: bisque;
+	
+}
+
+.box-left{
+background-color: red;
+width: 25%;
+height: 400px;
+margin-left: 20px;
+margin-right: 10px;
+float: left;
+border-radius: 10%;
+border: 5px dotted #000;
+padding: 20px;
+color: #fff;
+}
+.box-middle{
+background-color: red;
+width: 25%;
+height: 400px;
+margin-left: 20px;
+margin-right: 10px;
+float: left;
+border-radius: 10%;
+border: 5px dotted #000;
+padding: 20px;
+color: #fff;
+}
+.box-right{
+background-color: red;
+width: 25%;
+height: 400px;
+margin-left: 20px;
+margin-right: 10px;
+float: left;
+border-radius: 10%;
+border: 5px dotted #000;
+padding: 20px;
+color: #fff;
+}
+.box{
+margin-top: 4%;
+}
+.box img{
+width: 323px;
+height: 345px;
+height-left: 22%;
+}
+.box p{
+padding: 10%;
+padding-left: 23%;
+}
